@@ -1,2 +1,38 @@
 sender-mono/build/
 sender-multi-camera/build/
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+
+*.vcxproj
+*.vcxproj.filters
+
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+
+*.log
+*.tlog
+CMakeFiles/
+CMakeCache.txt
+
